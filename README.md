@@ -10,7 +10,7 @@ A near-real-time data engineering pipeline that ingests live global flight data,
 OpenSky API → Apache Airflow → Bronze (JSON) → Silver (CSV) → Gold (Aggregated CSV) → Snowflake → Dashboard
 ```
 
-![Architecture](Architecture.png)
+![Architecture](ARCHITECTURE/Architecture.png)
 
 ---
 
